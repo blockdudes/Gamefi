@@ -1,0 +1,100 @@
+$ vite preview
+Port 4173 is in use, trying another one...
+Port 4174 is in use, trying another one...
+Port 4175 is in use, trying another one...
+  ➜  Local:   http://localhost:4176/
+  ➜  Network: http://152.53.45.25:4176/
+  ➜  Network: http://10.147.20.194:4176/
+  ➜  Network: http://172.50.0.1:4176/
+  ➜  Network: http://172.19.0.1:4176/
+error: script "preview" was terminated by signal SIGKILL (Forced quit)
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
+$ vite preview -p 4176
+file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444
+          throw new CACError(`Unknown option \`${name.length > 1 ? `--${name}` : `-${name}`}\``);
+                ^
+
+CACError: Unknown option `-p`
+    at Command.checkUnknownOptions (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:444:17)
+    at CAC.runMatchedCommand (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:642:13)
+    at CAC.parse (file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:581:12)
+    at file:///root/code/gamefi/gamefi-landing/node_modules/vite/dist/node/cli.js:914:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:222:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:316:24)
+
+Node.js v20.16.0
+error: script "preview" exited with code 1
