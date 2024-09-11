@@ -1,6 +1,6 @@
 # GameFi: Web3 Modding Platform
 
-Welcome to the **GameFi** project for the **Metagraph Hackathon**, where gaming meets Web3 through the **Constellation Network's Metagraph technology**. Our platform empowers creators to mod games, get NFTs, and engage with a blockchain-enhanced gaming community using the open-source game **Duelyst** as a foundation.
+Welcome to the **GameFi** for the **Metagraph Hackathon**, where gaming meets Web3 through the **Constellation Network's Metagraph technology**. Our platform empowers creators to mod games, get NFTs, and engage with a blockchain-enhanced gaming community using the open-source game **Duelyst** as a foundation.
 
 ## Concept Overview
 
